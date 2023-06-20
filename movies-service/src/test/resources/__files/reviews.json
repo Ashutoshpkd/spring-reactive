@@ -1,0 +1,14 @@
+[
+  {
+    "reviewId": "6486a4d4b20cbb4e229f5ce6",
+    "movieInfoId": "6485d0452effb63bb764e653",
+    "comment": "One of the best movie I have seen this year!!",
+    "rating": 9.5
+  },
+  {
+    "reviewId": "648bd9b5ad19123fb9c03f3b",
+    "movieInfoId": "6485d0452effb63bb764e653",
+    "comment": "Tom Cruise is unbelievable in this movie",
+    "rating": 9.1
+  }
+]

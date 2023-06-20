@@ -1,0 +1,10 @@
+{
+  "movieInfoId": "abc",
+  "name": "The Dark Knight",
+  "year": 2008,
+  "cast": [
+    "Christian Bale",
+    "HeathLedger"
+  ],
+  "release_date": "2008-07-18"
+}

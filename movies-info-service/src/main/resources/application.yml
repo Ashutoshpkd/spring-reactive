@@ -1,0 +1,20 @@
+spring:
+  profiles:
+    active: local
+
+server:
+  port: 7070
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile:
+        - local
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: local
